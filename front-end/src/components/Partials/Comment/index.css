@@ -1,0 +1,20 @@
+.PartialComment_singleComment {
+  border-left: 1px lightblue solid;
+  border-top: 1px lightblue solid;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.comment-avatar {
+  width:50px;
+  height:50px;
+  border-radius:25px;
+  float:right;
+}
+
+.reply-avatar {
+  width:50px;
+  height:50px;
+  border-radius:25px;
+}
